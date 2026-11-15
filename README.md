@@ -47,7 +47,7 @@ My work and studies currently span:
 | Project | Description | Technologies |
 |:--|:--|:--|
 | [GA_FUZZY_CONTROLLER](https://github.com/Edumarek123/GA_FUZZY_CONTROLLER) | Fuzzy control with genetic-algorithm tuning for an experimental motor setup. | C++ · Embedded |
-| [RNA_PID](https://github.com/Edumarek123/RNA_PID) | Study connecting neural-network modeling and process control. | Neural networks · PID |
+| [ENeuralNetworkLib](https://github.com/Edumarek123/ENeuralNetworkLib) | Experimental C++ feedforward neural-network library with matrix operations, backpropagation and desktop/Arduino support paths. | C++ · Neural networks · Arduino |
 | [FUZZY_Controller](https://github.com/Edumarek123/FUZZY_Controller) | Fuzzy-logic controller targeting the ESP32 platform. | C++ · ESP32 |
 | [ML_LUNG_CANCER](https://github.com/Edumarek123/ML_LUNG_CANCER) | Educational tabular-classification experiment. | Python · scikit-learn |
 
