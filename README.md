@@ -2,45 +2,61 @@
 
 # Eduardo Marek
 
-**Software developer & engineering enthusiast**
+**Software development · Artificial intelligence · Game systems · Embedded control**
 
-Exploring software, intelligent systems, embedded control, and interactive applications.
+Building and exploring software and engineering projects — from algorithms and simulations to interactive applications and hardware-oriented prototypes.
 
-![Focus](https://img.shields.io/badge/focus-software%20%26%20engineering-0A7F8C)
-![Languages](https://img.shields.io/badge/code-C%2B%2B%20%7C%20Python%20%7C%20Java-3776AB)
+![Languages](https://img.shields.io/badge/languages-C%2B%2B%20%7C%20Python%20%7C%20Java-3776AB)
 ![Interests](https://img.shields.io/badge/interests-AI%20%7C%20games%20%7C%20embedded-6f42c1)
+![Profile](https://img.shields.io/badge/GitHub-public%20projects-181717?logo=github)
 
 </div>
 
 ## About
 
-I work across software development and engineering-oriented projects, with an interest in turning concepts into practical prototypes. My public repositories include experiments in game development, machine learning, neural networks, embedded systems, control engineering, and algorithm design.
+My public repositories document practical experiments and projects across software development and engineering. The work ranges from algorithmic exercises and machine-learning studies to embedded controllers, electronics, simulations, and game-development concepts.
 
-## Areas of interest
+## Focus areas
 
-| Area | Topics |
+| Area | Selected topics |
 |---|---|
 | Software engineering | C++, Python, Java, web technologies |
 | Artificial intelligence | Neural networks, genetic algorithms, machine learning |
 | Game development | Game systems, simulations, interactive prototypes |
-| Embedded systems | Microcontrollers, hardware integration |
+| Embedded systems | ESP32, microcontrollers, hardware integration |
 | Control engineering | PID, fuzzy logic, experimental automation |
+| Algorithms | Sorting, matrices, finite state machines |
 
-## Selected work
+## Featured projects
 
-- [TileFantasy](https://github.com/Edumarek123/TileFantasy) — fantasy MMO project with client/server structure, lore, and gameplay systems.
-- [GA_FUZZY_CONTROLLER](https://github.com/Edumarek123/GA_FUZZY_CONTROLLER) — genetic-algorithm-tuned fuzzy controller for an experimental motor-control bench.
-- [Snake](https://github.com/Edumarek123/Snake) — C++ / SDL2 environment for neural-network and genetic-algorithm experiments.
-- [Chess_Clock](https://github.com/Edumarek123/Chess_Clock) — DIY electronics project with PCB and manufacturing materials.
-- [RNA_PID](https://github.com/Edumarek123/RNA_PID) — neural-network and process-control study.
+### Intelligent systems and control
 
-## Repository catalog
+- [GA_FUZZY_CONTROLLER](https://github.com/Edumarek123/GA_FUZZY_CONTROLLER) — fuzzy control with genetic-algorithm tuning on an experimental motor bench.
+- [RNA_PID](https://github.com/Edumarek123/RNA_PID) — study connecting neural-network modeling and process control.
+- [FUZZY_Controller](https://github.com/Edumarek123/FUZZY_Controller) — fuzzy-logic controller targeting ESP32.
+- [ML_LUNG_CANCER](https://github.com/Edumarek123/ML_LUNG_CANCER) — educational tabular-classification experiment.
 
-Browse the repositories on this profile for additional experiments and implementation studies. Each project README describes its scope, available files, and development status.
+### Game development and simulation
 
-## Contact
+- [TileFantasy](https://github.com/Edumarek123/TileFantasy) — fantasy MMO design and client/server project structure.
+- [HeroTower](https://github.com/Edumarek123/HeroTower) — fantasy multiplayer game project with planned PvP and PvE modes.
+- [Snake](https://github.com/Edumarek123/Snake) — SDL2 simulation exploring neural networks and genetic algorithms.
+- [Barcos_g](https://github.com/Edumarek123/Barcos_g) — browser-based naval-map prototype.
 
-The best way to discuss a specific project or propose a collaboration is through GitHub.
+### Software fundamentals and hardware
+
+- [FSM](https://github.com/Edumarek123/FSM) — finite state machine implementation in C++.
+- [AlgoritimosOrdenacao](https://github.com/Edumarek123/AlgoritimosOrdenacao) — sorting algorithm visualization with SDL2.
+- [Chess_Clock](https://github.com/Edumarek123/Chess_Clock) — DIY chess clock with electronics and PCB materials.
+- [SistemaMultiAgentes_bloquinhos](https://github.com/Edumarek123/SistemaMultiAgentes_bloquinhos) — Java multi-agent simulation.
+
+## Explore all projects
+
+Browse the [public repositories](https://github.com/Edumarek123?tab=repositories) for source code, project notes, and implementation experiments. Each repository README describes its own scope and current development status.
+
+## Collaboration
+
+For questions, suggestions, or discussion about a specific project, open an issue in the relevant repository.
 
 ---
-<sub>Profile documentation maintained alongside the public project repositories.</sub>
+<sub>Project descriptions distinguish implemented code from experimental work and planned features.</sub>
