@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/Hydra’s Roaring Ruins Battle.gif" alt="Animated three-headed hydra idle scene — Eduardo Marek" width="100%">
+<img src="assets/profile-grimoire-banner.svg" alt="Animated three-headed hydra idle scene — Eduardo Marek" width="100%">
 
 
 
