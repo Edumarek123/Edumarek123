@@ -37,7 +37,7 @@ My work and studies currently span:
 | ✧ Intelligence | Machine learning, neural networks, genetic algorithms |
 | 🛡️ Engineering | Embedded systems, electronics, control |
 | 🏰 Game systems | RPG mechanics, multiplayer concepts, interactive prototypes |
-| ◈ Tools | C / C++, Python, Java, JavaScript, HTML, CSS, GDScript, Ladder, MySQL, ESP32, Arduino, SDL2 |
+| ◈ Tools | C / C++, Python, Java, JavaScript, HTML, CSS, GDScript, Ladder, MySQL, ESP32, Arduino, ENet, SDL2 |
 
 ## 〔 QUEST BOARD · FEATURED PROJECTS 〕
 
